@@ -51,3 +51,41 @@ Functionality in wireframes outlines key interactions or features of the site, s
 - In an e-commerce wireframe, functionality elements might include an "Add to Cart" button below each product, ensuring users can easily select items for purchase.
 
 These elements help create a clear and structured plan for the design and user experience, providing a solid foundation for later stages of development.
+
+---
+
+## Types of Wireframes
+
+Wireframes can be classified into two main types: low-fidelity and high-fidelity. Each type serves a different purpose in the design process, depending on the stage of development and the level of detail needed.
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are basic, simple representations of a website or application’s layout. They typically consist of simple shapes, lines, and placeholders to demonstrate the structure and functionality of the design. These wireframes focus more on the overall concept and layout, rather than specific details like color or typography.
+
+**When to Use:**
+- Early stages of the design process, when you’re exploring different layout options.
+- To quickly communicate ideas and get feedback from stakeholders.
+- In brainstorming or ideation phases to visualize basic flow without getting bogged down in details.
+
+**Example:**
+- A simple sketch or a basic digital layout with blocks representing different content sections (like a header, body, and footer) but without any specific design elements.
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and refined. They are closer to the final design and typically include more precise content, interactions, and a better sense of the visual design. These wireframes may also include real text, images, and more specific UI elements (like buttons and input fields).
+
+**When to Use:**
+- In later stages of the design process, after the basic layout and structure have been established.
+- When presenting the design to clients or stakeholders for approval.
+- To test more realistic interactions and ensure everything functions as intended before development.
+
+**Example:**
+- A detailed wireframe with actual images, typography, and colors, showing how the user interface will look and behave.
+
+
+For this project, we are using **high-fidelity wireframes**. These wireframes provide a detailed and polished representation of the booking management system, closely resembling the final product. The goal is to refine the visual design and user interactions while ensuring that the layout, content, and functionality align with the requirements.
+
+High-fidelity wireframes are characterized by:
+- Detailed design elements, including color schemes, typography, and imagery.
+- Interactive elements like buttons, input fields, and navigation that simulate real user interactions.
+- A more precise layout that helps visualize the final user interface and experience.
+
+This approach ensures that stakeholders can fully understand the look and feel of the booking system, making it easier to gather feedback and make necessary adjustments before development begins. By using high-fidelity wireframes, we can ensure a seamless transition to the development stage with clear visual direction and a refined user experience.
