@@ -89,3 +89,33 @@ High-fidelity wireframes are characterized by:
 - A more precise layout that helps visualize the final user interface and experience.
 
 This approach ensures that stakeholders can fully understand the look and feel of the booking system, making it easier to gather feedback and make necessary adjustments before development begins. By using high-fidelity wireframes, we can ensure a seamless transition to the development stage with clear visual direction and a refined user experience.
+
+---
+
+## Wireframing Tools
+
+Wireframing is an essential part of the design process, and various tools are available to help create wireframes effectively. Below are some popular wireframing tools used by designers:
+
+### 1. Figma
+
+[Figma](https://www.figma.com/) is a cloud-based design tool that allows teams to collaborate in real-time. It is widely used for wireframing, prototyping, and UI design. Figma is especially useful for creating high-fidelity wireframes because it provides an easy-to-use interface, powerful design features, and seamless collaboration.
+
+#### Key Features of Figma:
+- **Real-Time Collaboration:** Multiple users can work on the same project simultaneously, making it ideal for team-based design work.
+- **Vector Networks and Components:** Figma provides an extensive set of design tools, including vector networks and reusable components, which make it easier to design and update elements consistently.
+- **Interactive Prototypes:** You can create interactive prototypes directly within Figma, enabling a more dynamic and realistic demonstration of the wireframe.
+- **Cloud-Based:** As a cloud tool, Figma allows designers to access and share their projects from anywhere, eliminating the need for software installation and version control issues.
+- **Cross-Platform:** Available on both Windows and MacOS, and also supports browser-based usage, making it highly accessible.
+
+#### Why Figma is Great for Wireframing:
+- Figma’s cloud-based nature ensures easy collaboration across teams, whether they’re in the same room or in different parts of the world.
+- Its intuitive interface and powerful vector tools allow designers to create wireframes that are both detailed and easy to iterate upon.
+- Figma's prototyping features help visualize user flows and interactions directly from the wireframe, which aids in early-stage user testing and feedback gathering.
+
+### 2. Other Popular Wireframing Tools
+- **Sketch**: A vector-based design tool mainly used on macOS. Sketch is a powerful design tool but is more suited for static design rather than real-time collaboration.
+- **Adobe XD**: Adobe XD offers excellent design and prototyping features, especially for interactive wireframes. It integrates well with other Adobe products.
+- **Balsamiq**: Known for its low-fidelity wireframes, Balsamiq is perfect for quick, rough sketches of UI layouts.
+- **Axure RP**: A comprehensive tool for creating both wireframes and high-fidelity prototypes, with support for complex interactions and conditional logic.
+
+While there are many tools available, **Figma** stands out for its ease of use, collaboration features, and flexibility, making it the preferred choice for wireframing in many design teams.
